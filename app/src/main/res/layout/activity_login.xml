@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!-- Your App Custom Login UI -->
+
+    <!-- Google Sign-In Button -->
+    <Button
+        android:id="@+id/btnLoginWithGoogle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="230dp"
+        android:layout_marginEnd="20dp"
+        android:textColor="?attr/editTextColor"
+        android:background="@drawable/buttonshape"
+        android:drawableLeft="@drawable/google2"
+        android:paddingLeft="10dp"
+        android:text="    Continue With Google"
+        android:textAllCaps="false"
+        />
+
+</LinearLayout>

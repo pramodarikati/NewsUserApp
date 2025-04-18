@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewsPortalApp</string>
+    <string name="default_web_client_id">1055407872306-vqj1f0agph1bjgs3g0l5hk8infn72f3e.apps.googleusercontent.com</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_search">Search</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="camera_permission_rationale">This app needs access to your camera to take profile pictures. Please grant the permission to continue.</string>
+
+    <string name="gallery_permission_rationale">This app needs access to your gallery to select a profile picture. Please grant the permission to continue.</string>
+
+</resources>
